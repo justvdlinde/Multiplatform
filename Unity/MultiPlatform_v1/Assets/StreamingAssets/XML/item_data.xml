@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ItemDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <list>
+    <ItemEntry>
+      <itemName>Dickshitt</itemName>
+      <material>Copper</material>
+      <value>10</value>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>DDAW</itemName>
+      <material>Iron</material>
+      <value>2333</value>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Dickshitt</itemName>
+      <material>Copper</material>
+      <value>10</value>
+    </ItemEntry>
+  </list>
+</ItemDatabase>
